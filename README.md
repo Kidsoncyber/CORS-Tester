@@ -13,7 +13,7 @@ A Python tool to test for CORS (Cross-Origin Resource Sharing) misconfigurations
 ## Installation
 
 ```bash
-git clone https://github.com/kidsoncyber/security-tools.git
+git clone https://github.com/Kidsoncyber/cors-misconfig-checker.git
 cd security-tools
 pip install -r requirements.txt
 
